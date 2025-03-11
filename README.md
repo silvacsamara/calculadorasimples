@@ -1,1 +1,1 @@
-Calculadora simples que realiza operações matemáticas básicas entre dois números, utilizando a estrutura de controle switch case para determinar a operação desejada.
+Uma calculadora simples desenvolvida para executar operações matemáticas básicas (soma, subtração, multiplicação e divisão) entre dois números. O código utiliza switch case para selecionar a operação desejada.
