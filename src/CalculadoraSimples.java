@@ -62,6 +62,8 @@ public class CalculadoraSimples {
 
                 System.out.println("Resultado: " + soma3);
                 break;
+                default:
+                    System.out.println("Opção inválida. Tente novamente!");
 
         }
 
